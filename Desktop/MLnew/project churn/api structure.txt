@@ -1,0 +1,7 @@
+model_churn_api/
+│
+├── app.py                 # FastAPI app (main file)
+├── model.pkl             # Your trained model
+├── requirements.txt      # Dependencies
+├── feature_info.py       # Feature names & validation
+└── README.md            # API docs
